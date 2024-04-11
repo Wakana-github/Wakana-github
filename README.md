@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Thank you for visiting my github page.
 
 [![Wakana's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakana-github&theme=vue-dark&show_icons=true)](https://github.com/wakana-github/github-readme-stats)
 
