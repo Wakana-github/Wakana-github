@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Wakana's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakana-github&theme=vue-dark&show_icons=true)](https://github.com/wakana-github/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakana-github&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/wakana-github/github-readme-stats)
+
 <!--
 **Wakana-github/Wakana-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
