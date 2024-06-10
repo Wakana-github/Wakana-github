@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakana-github&theme=vue-dark&show_icons=true&layout=compact&count_private=true)](https://github.com/wakana-github/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Wakana-github&layout=compact
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Wakana-github&layout=compact)
 
 <!-- COMMENT OUT
 **Wakana-github/Wakana-github** is a special repository because its `README.md` (this file) appears on your GitHub profile.
